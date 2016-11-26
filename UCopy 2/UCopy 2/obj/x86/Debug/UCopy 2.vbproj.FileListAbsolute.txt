@@ -1,0 +1,16 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\bin\x86\Debug\UCopy 2.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\bin\x86\Debug\UCopy 2.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\bin\x86\Debug\UCopy 2.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\bin\x86\Debug\UCopy 2.xml
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.vbprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy_2.Form1.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy_2.Form2.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy_2.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.vbproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.xml
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.pdb
+E:\文稿\Visual Studio 2012\Projects\UCopy 2\UCopy 2\bin\x86\Debug\UCopy 2.exe.config
+E:\文稿\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.exe
+E:\文稿\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.xml
+E:\文稿\Visual Studio 2012\Projects\UCopy 2\UCopy 2\obj\x86\Debug\UCopy 2.pdb
