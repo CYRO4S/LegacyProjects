@@ -1,0 +1,11 @@
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\bin\Debug\UCopy 2.exe.config
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\bin\Debug\UCopy 2.exe
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\bin\Debug\UCopy 2.pdb
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\bin\Debug\UCopy 2.xml
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy_2.Form1.resources
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy_2.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy 2.vbproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy 2.exe
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy 2.xml
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy 2.pdb
+c:\users\1\documents\visual studio 2012\Projects\UCopy 2\UCopy 2\obj\Debug\UCopy_2.Form2.resources
