@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\bin\x86\Debug\Systroy.exe.config
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\bin\x86\Debug\Systroy.exe
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\bin\x86\Debug\Systroy.pdb
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.frmUCopy.resources
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.vbproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.exe
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.pdb
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Debug\Systroy.vbprojResolveAssemblyReference.cache

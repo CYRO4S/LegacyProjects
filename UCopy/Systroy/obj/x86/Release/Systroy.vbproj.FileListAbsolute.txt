@@ -1,0 +1,8 @@
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\bin\x86\Release\Systroy.exe.config
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\bin\x86\Release\Systroy.exe
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Release\Systroy.frmUCopy.resources
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Release\Systroy.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Release\Systroy.vbproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\Systroy\Systroy\obj\x86\Release\Systroy.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy\Systroy\bin\x86\Release\Systroy.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\UCopy\Systroy\obj\x86\Release\Systroy.exe
