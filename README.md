@@ -1,7 +1,3 @@
-# LegacyProjects
-高中写的的早期程序
-  
-本Repo包含我高中时期初学VB.Net时写的小程序。  
-解决方案没有进行任何更改。这些程序目前已不再维护和更新。  
-  
-高中写的程序里我觉得有点意思仍然值得一做的小程序，会已独立Repo发布，并持续更新改进。  
+# Legacy Projects
+Written while learning my first programming language - Visual Basic .Net  
+These apps are no longer maintained.
